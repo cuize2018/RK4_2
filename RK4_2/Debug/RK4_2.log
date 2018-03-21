@@ -1,0 +1,4 @@
+﻿  并行c.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+e:\file\c++\程序\rk4_2\rk4_2\rk4_2\并行c.cpp(43): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  RK4_2.vcxproj -> E:\File\c++\程序\RK4_2\RK4_2\Debug\RK4_2.exe
